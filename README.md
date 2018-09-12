@@ -23,3 +23,4 @@ b626fb563aa6fcb5dfb6580d42c8a98e  jaffa_linux.mips64le
 5a55743bdb1f616c25249554b9ba6d8c  jaffa_windows.386
 
 071275b62d3695edcb2ee48183aa9d23  jaffa_windows.amd64
+
