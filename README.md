@@ -1,0 +1,13 @@
+ee41d93f904c4de19cddbd509b34e8a2  jaffa_darwin.amd64
+84ffa5c21a2cbfbb3a0cc5972c0daeeb  jaffa_freebsd.386
+b500bf5527fdcaae496f86f09a80d7db  jaffa_freebsd.amd64
+547b4ef03a76a8c971f6f85c6528cf54  jaffa_linux.386
+b37855f78ddc2007eae310b0da467abc  jaffa_linux.amd64
+eed8e194db03638cf06e890e1deb8346  jaffa_linux.arm
+7d85a3f17a5814cc6bb359787c50f2ff  jaffa_linux.arm64
+8fdab1837a82a3bafcbab848fcdbe209  jaffa_linux.mips
+591f57956296425967562613871c5ccd  jaffa_linux.mips64
+b626fb563aa6fcb5dfb6580d42c8a98e  jaffa_linux.mips64le
+58ebf86424dd578c9eaa01ca56b793c2  jaffa_linux.mipsle
+5a55743bdb1f616c25249554b9ba6d8c  jaffa_windows.386
+071275b62d3695edcb2ee48183aa9d23  jaffa_windows.amd64
